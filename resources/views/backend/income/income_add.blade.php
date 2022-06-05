@@ -49,7 +49,7 @@
                                         </td>
 
                                         <td>
-                                            <input type="number" value="0" min="0" class="form-control amount text-right" name="amount[]">
+                                            <input type="number" min="0" class="form-control amount text-right" name="amount[]">
                                         </td>
 
                                         <td>
